@@ -1,0 +1,3 @@
+[submodule "src/gel/temporal-network-embedding"]
+	path = src/gel/temporal-network-embedding
+	url = https://github.com/linhongseba/temporal-network-embedding.git
